@@ -3,7 +3,7 @@
 ### Quem sou eu
 - ❤ Uma entusiasta da tecnologia e desenvolvedora fullstack, embarcando na jornada da engenharia de software. Com 27 anos, estou no início da minha carreira, mas com uma grande paixão por aprender e crescer na área.
   
-- 💻 Estou constantemente aprimorando minhas habilidades como desenvolvedora fullstack, com um foco especial em HTML5, CSS3, JavaScript e C#.
+- 💻 Estou constantemente aprimorando minhas habilidades como desenvolvedora fullstack, com um foco especial em HTML5, CSS3, JavaScript, C# e JAVA.
   
 - 🚀 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e experiência. Estou particularmente interessada em aprender mais sobre arquitetura de software, design de interfaces e melhores práticas de desenvolvimento.
 
